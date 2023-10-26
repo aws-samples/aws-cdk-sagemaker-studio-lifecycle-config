@@ -1,0 +1,6 @@
+# Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: MIT-0
+
+aws-cdk-lib==2.43.1
+boto3==1.25.5
+constructs==10.1.113
