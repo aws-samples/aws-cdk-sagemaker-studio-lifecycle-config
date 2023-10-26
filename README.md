@@ -27,7 +27,6 @@ The command may be “python” instead of “python3” depending on your path 
 **Install the required dependencies.**
 
 * pip install -r requirements.txt
-* pip install -r requirements-dev.txt
 
 At this point you can optionally synthesize the CloudFormation template for this code:
 
